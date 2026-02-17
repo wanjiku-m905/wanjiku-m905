@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ann Maina
 
-<!--
-**wanjiku-m905/wanjiku-m905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning Artificial Intelligence at IYF
+- I'm interested in AI,programming and web development.
+- I'm looking to collaborate on Study Circle / Brainstorm Hub.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- i have no current projects.
+
+## How to Reach Me
+- Email: watengaann2@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ann-wanjiku-a07ab022a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
